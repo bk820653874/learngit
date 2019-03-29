@@ -1,0 +1,6 @@
+1、signal 每人都做
+2、.network , API
+3、 presentation, 可以用GUI 做一个 webpage
+4、code-> github/gitee
+     report
+     video
